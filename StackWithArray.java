@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 public class StackWithArray<T> {
-
+    /* added comment in main */
     public ArrayList<T> stack;
 
     public StackWithArray() {
