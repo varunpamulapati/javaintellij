@@ -2,6 +2,8 @@
 import java.util.ArrayList;
 public class StackWithArray<T> {
 
+    /* added the branch */
+
     public ArrayList<T> stack;
 
     public StackWithArray() {
